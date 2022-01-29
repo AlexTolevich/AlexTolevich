@@ -1,6 +1,10 @@
-# Привет всем, меня зовут Александр👋 #  
-## Мой стек: ##  
+# Привет всем, меня зовут Александр👋 #
+- Я начинающий front-end разработчик;
+- Учусь писать чистый, лаконичный и понятный код;
+- Хочу получить опыт в разработке коммерческих проектов в команде с опытными разработчиками;
+- Стремлюсь развиваться и стать отличным специалистом в своей сфере.
 
+## 🔨Мой стек: ##  
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/><img src="https://img.icons8.com/ios-filled/50/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/>
 
 ## :trophy: Моя статистика: ##
